@@ -20,7 +20,7 @@
       * Plotly
     
 ### Sample Screenshot
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](https://github.com/hariprasath-v/Analyze-and-Visualize-the-Food-Delivery-Time-for-Different-Cuisines/blob/AnalyticsVidhya-ML-DS-Competition/streamlit%20app%20screenshot.PNG)
 
 
 ### My further ides,
