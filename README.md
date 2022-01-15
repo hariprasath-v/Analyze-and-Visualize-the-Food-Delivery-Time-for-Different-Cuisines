@@ -20,7 +20,7 @@
       * Plotly
     
 ### Sample Screenshot
-![Alt text](https://github.com/hariprasath-v/Analyze-and-Visualize-the-Food-Delivery-Time-for-Different-Cuisines/blob/Machine_Learning_Competitons/streamlit%20app%20screenshot.PNG)
+![Alt text](https://github.com/hariprasath-v/Analyze-and-Visualize-the-Food-Delivery-Time-for-Different-Cuisines/blob/main/streamlit%20app%20screenshot.PNG)
 
 
 ### My further ides,
